@@ -6,11 +6,5 @@ public class Test {
         char charAt = s.charAt(0);
         System.out.println(charAt);
 
-
-
-
-
-
-        System.out.println("你好");   System.out.println("你好");
     }
 }
