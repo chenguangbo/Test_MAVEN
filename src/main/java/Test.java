@@ -7,6 +7,7 @@ public class Test {
         System.out.println("我们都是好孩子");
 
 
+        System.out.println("我也是好孩子");
 
 
     }
